@@ -14,3 +14,8 @@
   *The App allowes you to enter any city in the world and the App will generate the weather of the city.
   *The App uses icon to diaplay the weather in the city.
   *The Temprature is displayed in F
+
+Installation
+1. Clone the repository: git clone https://github.com/iftekar2/WeatherApp.git
+2. Navigate to the project directory: cd weather-app
+3. Open the index.html file in your web browser.
