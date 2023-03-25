@@ -6,10 +6,10 @@
 
 ![Screenshot 2023-03-25 151637](https://user-images.githubusercontent.com/30635422/227737241-b07c75f3-d7d4-4ca7-87f4-be7041f7ce71.png)
 
-#Demo
+# Demo
 **Live demo will be available very soon**
 
 
-#Features
+# Features
   **The App allowes you to enter any city in the world and the App will generate the weather of the city.**
   
