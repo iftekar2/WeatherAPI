@@ -23,3 +23,8 @@ Installation
 Usage
 1. Upon loading the application, the App will ask the user to enter a city. If granted, the app will display weather of the city the user entered.
 2. To search for weather in a different location, enter the city name in the search bar and click the "Search" button.
+
+Credits
+This project was built using the following resources:
+
+OpenWeather API (https://openweathermap.org/api)
