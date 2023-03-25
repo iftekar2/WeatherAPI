@@ -12,4 +12,5 @@
 
 # Features
   **The App allowes you to enter any city in the world and the App will generate the weather of the city.**
-  
+  **The App uses icon to diaplay the weather in the city.**
+  **The Temprature is displayed in F**
